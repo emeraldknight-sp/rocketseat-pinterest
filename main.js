@@ -23,9 +23,9 @@ const menuHeader = [
 
 const projects = [
   {
-    image: "./assets/images/cineverse.webp",
-    urlVercel: "https://react-project-cineverse.vercel.app/",
-    urlGithub: "https://github.com/emeraldknight-sp/react-project-cineverse",
+    image: "./assets/img/cineverse.webp",
+    urlVercel: "https://react-cineverse.vercel.app/",
+    urlGithub: "https://github.com/emeraldknight-sp/react-cineverse",
     details: [
       {
         title: "Cineverse | Streaming",
@@ -56,9 +56,9 @@ const projects = [
     ],
   },
   {
-    image: "./assets/images/one-piece.webp",
-    urlVercel: "https://react-project-one-piece.vercel.app/",
-    urlGithub: "https://github.com/emeraldknight-sp/react-project-one-piece",
+    image: "./assets/img/one-piece.webp",
+    urlVercel: "https://react-treasure-map.vercel.app/",
+    urlGithub: "https://github.com/emeraldknight-sp/react-one-piece",
     details: [
       { title: "One Piece | Reatividade" },
       {
@@ -85,10 +85,9 @@ const projects = [
     ],
   },
   {
-    image: "./assets/images/the-mandalorian.webp",
-    urlVercel: "https://next-project-the-mandalorian.vercel.app/",
-    urlGithub:
-      "https://github.com/emeraldknight-sp/next-project-the-mandalorian",
+    image: "./assets/img/the-mandalorian.webp",
+    urlVercel: "https://next-the-mandalorian.vercel.app/",
+    urlGithub: "https://github.com/emeraldknight-sp/next-the-mandalorian",
     details: [
       { title: "The Mandalorian | APIs" },
       {
@@ -100,10 +99,9 @@ const projects = [
     ],
   },
   {
-    image: "./assets/images/stranger-things.webp",
-    urlVercel: "https://react-project-stranger-things.vercel.app/",
-    urlGithub:
-      "https://github.com/emeraldknight-sp/react-project-stranger-things",
+    image: "./assets/img/stranger-things.webp",
+    urlVercel: "https://react-mundo-invertido.vercel.app/",
+    urlGithub: "https://github.com/emeraldknight-sp/react-mundo-invertido",
     details: [
       { title: "Mundo Invertido | Switch Mode" },
       {
@@ -129,11 +127,10 @@ const projects = [
       },
     ],
   },
-
   {
-    image: "./assets/images/metin-2.webp",
-    urlVercel: "https://next-project-metin2.vercel.app/",
-    urlGithub: "https://github.com/emeraldknight-sp/next-project-metin2",
+    image: "./assets/img/metin-2.webp",
+    urlVercel: "https://next-metin2.vercel.app/",
+    urlGithub: "https://github.com/emeraldknight-sp/next-metin2",
     details: [
       { title: "Metin 2 | SEO" },
       {
@@ -145,11 +142,11 @@ const projects = [
     ],
   },
   {
-    image: "./assets/images/weather.webp",
-    urlVercel: "https://react-project-weather.vercel.app/",
-    urlGithub: "https://github.com/emeraldknight-sp/react-project-weather",
+    image: "./assets/img/sky-tracker.webp",
+    urlVercel: "https://react-sky-tracker.vercel.app/",
+    urlGithub: "https://github.com/emeraldknight-sp/react-sky-tracker",
     details: [
-      { title: "Project Weather | Weather App" },
+      { title: "Sky Tracker | Weather App" },
       {
         user: {
           name: "@davidalmeidadev",
