@@ -1,0 +1,29 @@
+{
+  "name": "rocketseat-pinterest",
+  "version": "1.0.0",
+  "description": "This project is a clone of an existing interface, reproducing its design and main features. A clone is a replicated version of a product or system, usually with the aim of offering a similar or complementary alternative to the original version.",
+  "author": "David Almeida <contato.davidalmeida@outlook.com>",
+  "main": "main.js",
+  "keywords": [
+    "pinterest",
+    "rocketseat",
+    "layout",
+    "clone",
+    "dashboard"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:emeraldknight-sp/rocketseat-pinterest.git"
+  },
+  "scripts": {
+    "lint": "eslint \"/**/*.{html, js}\" --quiet",
+    "format": "prettier --write \"/**/*.{html,js}\""
+  },
+  "devDependencies": {
+    "eslint": "^9.7.0",
+    "eslint-config-recommended": "^4.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "prettier": "^3.3.3"
+  },
+  "license": "MIT"
+}
